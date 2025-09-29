@@ -1,0 +1,14 @@
+{
+  "name": "hamid",
+  "version": "1.0.0",
+  "description": "js practice logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamid",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.18.0"
+  }
+}

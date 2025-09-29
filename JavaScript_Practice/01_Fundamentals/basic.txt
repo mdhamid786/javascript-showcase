@@ -1,0 +1,150 @@
+Fundamentals (70 Questions)
+Introduction / Basics (10)
+
+Print "Hello World".
+
+Print numbers 1–100.
+
+
+
+Swap two numbers without temp variable.
+
+Find square and cube of a number.
+
+Convert Celsius to Fahrenheit.
+
+Convert seconds to hh:mm:ss format.
+
+Reverse digits of a number.
+
+Check if a number is even/odd.
+
+Check if a number is positive, negative, or zero.
+
+Variables & Data Types (10)
+
+Create variables with all data types (number, string, boolean, null, undefined, BigInt, Symbol, object).
+
+Convert string to number and number to string.
+
+Check type of variable using typeof.
+
+Create constant object and modify its properties.
+
+Concatenate two strings.
+
+Find length of a string without using .length.
+
+Convert string to uppercase without using .toUpperCase().
+
+Reverse string without using .reverse().
+
+Count vowels and consonants in string.
+
+Compare two strings ignoring case.
+
+Operators (10)
+
+Build simple calculator (add, subtract, multiply, divide).
+
+Find remainder of two numbers.
+
+Use bitwise operators to check odd/even.
+
+Find power of number using bitwise shift.
+
+Compare == vs ===.
+
+Use ternary operator for max of 3 numbers.
+
+Implement XOR swap algorithm.
+
+Check if two numbers have opposite signs using bitwise.
+
+Toggle a boolean without !.
+
+Add two binary strings.
+
+Control Flow (20)
+
+Print all prime numbers up to n.
+
+Print factorial of a number.
+
+Print Fibonacci sequence up to n.
+
+Find GCD of two numbers.
+
+Find LCM of two numbers.
+
+Print Armstrong numbers up to n.
+
+Print perfect numbers up to n.
+
+Sum of digits of a number.
+
+Reverse number and check palindrome.
+
+Count digits in a number.
+
+Find largest of three numbers using if-else.
+
+Check leap year.
+
+Print pyramid/star patterns.
+
+Generate random number within range.
+
+Print all multiples of a number in a range.
+
+Calculate sum of natural numbers.
+
+Print factors of a number.
+
+Print prime factors of a number.
+
+Convert decimal to binary.
+
+Convert binary to decimal.
+
+Functions (20)
+
+Function to check palindrome string.
+
+Function to reverse string.
+
+Function to find factorial.
+
+Function to find nth Fibonacci number.
+
+Function to check prime.
+
+Function to find min and max in array.
+
+Function to find second largest element.
+
+Function to check anagram.
+
+Function to count frequency of characters in string.
+
+Function to generate random password.
+
+Function to find sum of array.
+
+Function to find product of array.
+
+Function to remove duplicates from array.
+
+Function to flatten nested array.
+
+Function to chunk array into groups.
+
+Function to merge two arrays.
+
+Function to rotate array by k.
+
+Function to merge two objects.
+
+Function to deep clone object.
+
+Function to compare two objects deeply.

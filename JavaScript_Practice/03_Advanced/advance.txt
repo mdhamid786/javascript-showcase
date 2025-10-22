@@ -2,277 +2,140 @@ Advanced (110 Questions)
 Higher Order Functions (15)
 
 Implement custom map.
-
 Implement custom filter.
-
 Implement custom reduce.
-
 Find sum of even numbers with reduce.
-
 Count frequency with reduce.
-
 Flatten array with reduce.
-
 Compose functions.
-
 Pipe functions.
-
 Implement forEach.
-
 Implement some.
-
 Implement every.
-
 Implement find.
-
 Implement findIndex.
-
 Implement includes.
-
 Implement indexOf.
-
 Closures (10)
-
 Counter with closure.
-
 Once function with closure.
-
 Memoization with closure.
-
 Encapsulation with closure.
-
 Currying with closure.
-
 Private variables with closure.
-
 Timer with closure.
-
 Function factory with closure.
-
 Event listener with closure.
-
 Throttle with closure.
-
 Prototypes & Inheritance (10)
-
 Create prototype chain.
-
 Add method to prototype.
-
 Inherit from prototype.
-
 Polyfill new operator.
-
 Prototype vs instance method.
-
 Prototype pollution demo.
-
 Extend built-in prototype (Array).
-
 Implement Object.create.
-
 Polyfill instanceof.
-
 Prototype chain visualization.
-
 Classes (10)
-
 Create class with constructor.
-
 Add methods to class.
-
 Inheritance with extends.
-
 Use super in subclass.
-
 Static methods in class.
-
 Private fields in class.
-
 Getter and setter methods.
-
 Abstract class pattern.
-
 Singleton with class.
-
 Factory method with class.
-
 Modules (5)
-
 Export/import in ES6.
-
 CommonJS require demo.
-
 Mix CommonJS and ES6 modules.
-
 Default vs named export.
-
 Tree shaking demo.
-
 APIs (15)
-
 Fetch API demo.
-
 Fetch with error handling.
-
 Fetch with async/await.
-
 Fetch JSON data.
-
 Fetch POST request.
-
 Handle API timeout.
-
 Retry failed API.
-
 Cancel fetch with AbortController.
-
 Upload file with fetch.
-
 Download file with fetch.
-
 Fetch paginated API.
-
 Infinite scroll with API.
-
 Search API with debounce.
-
 Chained API calls.
-
 Parallel API calls.
-
 Node.js Basics (10)
-
 Create HTTP server.
-
 Read file with fs.
-
 Write file with fs.
-
 Append file.
-
 Delete file.
-
 Create directory.
-
 Read directory.
-
 Use path module.
-
 Use os module.
-
 Create simple API with Node.js.
-
 Frameworks & Libraries (20)
-
 React counter app.
-
 React to-do list.
-
 React form validation.
-
 React API fetch.
-
 React CRUD app.
-
 React search filter.
-
 React pagination.
-
 React modal popup.
-
 React accordion.
-
 React weather app.
-
 Vue counter app.
-
 Vue to-do list.
-
 Vue form validation.
-
 Vue API fetch.
-
 Vue CRUD app.
-
 Angular counter app.
-
 Angular to-do list.
-
 Angular form validation.
-
 Angular API fetch.
-
 Angular CRUD app.
-
 Bonus Advanced Challenges (35)
-
 Implement debounce.
-
 Implement throttle.
-
 Polyfill bind.
-
 Polyfill call.
-
 Polyfill apply.
-
 Polyfill Promise.all.
-
 Polyfill Promise.race.
-
 Polyfill Promise.any.
-
 Polyfill Promise.allSettled.
-
 Implement LRU cache.
-
 Implement Event Emitter.
-
 Implement Observer pattern.
-
 Implement Singleton pattern.
-
 Implement Factory pattern.
-
 Implement Strategy pattern.
-
 Implement custom Router.
-
 Implement Redux-like store.
-
 Implement Middleware pipeline.
-
 Implement virtual DOM.
-
 Implement diff algorithm.
-
 Implement infinite scroll loader.
-
 Implement autocomplete search.
-
 Implement pagination.
-
 Implement drag and drop.
-
 Implement lazy loading.
-
 Implement dark mode toggle.
-
 Build calculator app.
-
 Build quiz app.
-
 Build notes app.
-
 Build expense tracker.
-
 Build weather app with API.
-
 Build chat app UI.
-
 Build blog with JSONPlaceholder API.
-
 Build movie search app.
-
-Build e-commerce product list with filters.
+Build e-commerce product list with filter

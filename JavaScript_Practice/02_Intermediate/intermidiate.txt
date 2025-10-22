@@ -2,211 +2,107 @@ Intermediate (120 Questions)
 Arrays (30)
 
 Find average of array.
-
 Find largest difference in array.
-
 Find intersection of two arrays.
-
 Find union of two arrays.
-
 Find missing number in sequence.
-
 Find duplicate elements.
-
 Find majority element (> n/2 times).
-
 Find kth largest element.
-
 Find equilibrium index.
-
 Find pair with target sum.
-
 Count pairs with given sum.
-
 Find subarray with max sum (Kadane).
-
 Find subarray with given sum.
-
 Find longest consecutive sequence.
-
 Find product of array except self.
-
 Move zeros to end.
-
 Sort array of 0s, 1s, 2s.
-
 Spiral traversal of matrix.
-
 Rotate matrix 90 degrees.
-
 Transpose of matrix.
-
 Diagonal sum of matrix.
-
 Print boundary elements of matrix.
-
 Snake pattern of matrix.
-
 Find saddle point of matrix.
-
 Search element in sorted matrix.
-
 Flatten 2D array.
-
 Merge overlapping intervals.
-
 Insert interval.
-
 Find minimum platforms (trains problem).
-
 Rainwater trapping problem.
-
 Objects (15)
-
 Create student object with methods.
-
 Add/remove properties dynamically.
-
 Count properties of object.
-
 Check if property exists.
-
 Iterate keys and values.
-
 Convert object to array of pairs.
-
 Convert array of pairs to object.
-
 Freeze object (polyfill).
-
 Seal object.
-
 Shallow copy vs deep copy.
-
 Implement Object.create.
-
 Compare objects deeply.
-
 Group objects by property.
-
 Sort array of objects by property.
-
 Merge two objects deeply.
-
 DOM Manipulation (20)
-
 Create a button dynamically.
-
 Change text content of element.
-
 Change style dynamically.
-
 Add/remove class.
-
 Add event listener.
-
 Event delegation example.
-
 Prevent default behavior.
-
 Stop event propagation.
-
 Build counter app.
-
 Build to-do list app.
-
 Build accordion component.
-
 Build modal popup.
-
 Build image slider.
-
 Build tab navigation.
-
 Build stopwatch.
-
 Build digital clock.
-
 Form validation script.
-
 Fetch API data and display in table.
-
 DOM search filter.
-
 Infinite scroll loader.
-
 Async JavaScript (20)
-
 Callback example (setTimeout).
-
 Promise example.
-
 Chain promises.
-
 Promise.all example.
-
 Promise.race example.
-
 Custom promise polyfill.
-
 Async/await with fetch.
-
 Retry API call with async/await.
-
 Parallel API calls.
-
 Sequential API calls.
-
 Cancelable promise.
-
 Implement sleep(ms).
-
 Throttled API calls.
-
 Debounced search input.
-
 Task scheduler.
-
 Rate limiter.
-
 Event loop demo.
-
 Microtask vs macrotask demo.
-
 Custom event emitter.
-
 Implement pub-sub pattern.
-
 Error Handling (5)
-
 Try/catch demo.
-
 Throw custom error.
-
 Create error class.
-
 Handle async errors with try/catch.
-
 Graceful fallback function.
-
 ES6+ Features (10)
-
 Template literal example.
-
 Default parameter demo.
-
 Rest parameter demo.
-
 Spread operator demo.
-
 Destructuring array.
-
 Destructuring object.
-
 Optional chaining example.
-
 Nullish coalescing example.
-
 Import/export modules.
-
 Dynamic import example.
